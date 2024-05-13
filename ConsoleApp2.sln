@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2.csproj", "{329FEE7A-4D7D-4C98-AC99-F2B280754B74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calorieCalculation", "calorieCalculation\calorieCalculation.csproj", "{33724FBB-08B9-4B23-9E1A-8429390157DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329FEE7A-4D7D-4C98-AC99-F2B280754B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329FEE7A-4D7D-4C98-AC99-F2B280754B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329FEE7A-4D7D-4C98-AC99-F2B280754B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329FEE7A-4D7D-4C98-AC99-F2B280754B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33724FBB-08B9-4B23-9E1A-8429390157DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33724FBB-08B9-4B23-9E1A-8429390157DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33724FBB-08B9-4B23-9E1A-8429390157DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33724FBB-08B9-4B23-9E1A-8429390157DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EDAF931-36B4-444D-9E35-84304E3E76E3}
+	EndGlobalSection
+EndGlobal
